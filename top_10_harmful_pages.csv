@@ -1,0 +1,11 @@
+web_URL_id,web_URL,domain,critical,minor,moderate,serious,risk_score
+4912544535,https://www.pluralsight.com,Educational Platforms,18,9,18,24,258
+2001421671,https://www.coursera.org,Educational Platforms,0,0,27,18,153
+8244832401,https://www.edx.org,Educational Platforms,9,0,12,18,153
+6529673719,https://www.geeksforgeeks.org,Educational Platforms,4,4,12,8,96
+5138684180,https://www.spss.com,Technology Science and Research,5,2,3,8,70
+8491823152,https://www.cloudacademy.com,Educational Platforms,6,3,2,6,66
+713,https://arstechnica.com/science/,News and Media,2,4,4,8,62
+504,https://arstechnica.com/science/,Technology Science and Research,2,4,4,8,62
+505,https://arstechnica.com/gadgets/,Technology Science and Research,2,4,4,8,62
+503,https://arstechnica.com/health/,Technology Science and Research,2,4,4,8,62
